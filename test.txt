@@ -1,1 +1,4 @@
 hello ai
+
+python numpy pandas matpolit skipy
+
